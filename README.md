@@ -18,7 +18,7 @@
 * Fluent in English, Hindi, and Bengali (working towards adding Japanese).
 * Beyond the screen: I enjoy gaming (optimizing performance for *Valorant,Freefire,eFootball*) and watching anime.
 
-### Technical Skills
+### Technical Skills I'm Learning
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
