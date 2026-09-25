@@ -16,7 +16,7 @@
 * Interested in **Game Development** and game scripting, combining programming logic with interactive design.
 * Expanding my technical skill set in **C**, **Python**, and **Java**.
 * Fluent in English, Hindi, and Bengali (working towards adding Japanese).
-* Beyond the screen: I enjoy gaming (optimizing performance for *Valorant*) and watching anime.
+* Beyond the screen: I enjoy gaming (optimizing performance for *Valorant,Freefire,eFootball*) and watching anime.
 
 ### Technical Skills
 <p align="left">
